@@ -53,7 +53,12 @@ Right now this is an early proof of concept: the focus is on designing the struc
 - Keep a running list of “videos that don’t exist because they’re too hard to make” (ING help hub flows, planner walk-throughs, AI-intel explainers); those are prime candidates for tools like this.[web:329][web:335][web:340][web:345]
 
 ---
+## Project goals (2026)
 
+- Build a working AI intel system that briefs me on the most important AI developments and how they affect my career and businesses.
+- Learn the core tools of an AI workflow stack (GitHub, Supabase, n8n, LLM APIs) by using them on a real project.
+- Turn this into a portfolio piece that could later evolve into a configurable product for other people (different profiles, same engine).
+---
 ## Next steps
 
 - Add `sources.yaml` describing the initial AI sources (lab blogs, newsletters, selected channels).
