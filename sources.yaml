@@ -1,0 +1,84 @@
+# Core AI sources for the AI Intel Stack (v1)
+
+# === LAB / COMPANY BLOGS ===
+
+- id: openai-blog
+  type: rss
+  label: "OpenAI Blog"
+  url: "https://openai.com/blog/rss"
+  importance: high
+
+- id: anthropic-news
+  type: rss
+  label: "Anthropic News"
+  url: "https://www.anthropic.com/news/rss"
+  importance: high
+
+- id: deepmind-blog
+  type: rss
+  label: "Google DeepMind Blog"
+  url: "https://deepmind.google/discover/rss/"
+  importance: high
+
+- id: meta-ai-blog
+  type: rss
+  label: "Meta AI Blog"
+  url: "https://ai.facebook.com/blog/rss"
+  importance: medium
+
+- id: mistral-blog
+  type: rss
+  label: "Mistral AI Blog"
+  url: "https://mistral.ai/news/rss"
+  importance: medium
+
+
+# === NEWSLETTERS (ARCHIVE PAGES) ===
+
+- id: bens-bites
+  type: newsletter
+  label: "Ben's Bites"
+  url: "https://www.bensbites.com/archive"
+  importance: high
+
+- id: rundown-ai
+  type: newsletter
+  label: "The Rundown AI"
+  url: "https://www.therundown.ai/archive"
+  importance: high
+
+- id: neuron
+  type: newsletter
+  label: "The Neuron"
+  url: "https://www.theneuron.ai/newsletter"
+  importance: medium
+
+- id: import-ai
+  type: newsletter
+  label: "Import AI"
+  url: "https://www.importai.net/archive"
+  importance: medium
+
+
+# === BLOGS / DEEP DIVES ===
+
+- id: buildfastwithai
+  type: web
+  label: "BuildFastWithAI Blog"
+  url: "https://www.buildfastwithai.com/blogs"
+  importance: medium
+
+
+# === YOUTUBE CHANNELS (PLACEHOLDERS) ===
+
+- id: greg-isenberg
+  type: youtube
+  label: "Greg Isenberg"
+  channel_id: "TO_FILL"
+  importance: medium
+
+- id: ai-news-strategy
+  type: youtube
+  label: "AI News & Strategy Daily"
+  channel_id: "TO_FILL"
+  importance: high
