@@ -75,3 +75,4 @@ Add a digest_prompt.md file with the full prompt template used to generate daily
 
 Later: implement fetching, storage, and automated digest generation using an orchestration tool (e.g. n8n + Supabase + LLM API).
 
+For more worked examples, see the [`examples/`](examples) folder.
