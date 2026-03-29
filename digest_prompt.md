@@ -1,5 +1,3 @@
-digest_prompt.md – revised title + tiny tweaks
-
 AI Daily Digest Prompt
 
 This prompt describes how to turn raw AI news and content into a structured digest.
