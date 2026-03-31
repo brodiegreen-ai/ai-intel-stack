@@ -104,11 +104,11 @@
 - id: greg-isenberg
   type: youtube
   label: "Greg Isenberg"
-  channel_id: "TO_FILL"
+  channel_id: "https://www.youtube.com/@gregisenberg"  # TODO: replace with channel ID later
   importance: medium
 
 - id: ai-news-strategy-nate
   type: youtube
   label: "AI News & Strategy Daily – Nate B. Jones"
-  channel_id: "TO_FILL"
+  channel_id: "https://www.youtube.com/@NateBJones"  # TODO: replace with channel ID later
   importance: high
