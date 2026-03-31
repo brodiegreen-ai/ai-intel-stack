@@ -1,4 +1,4 @@
-# Core AI sources for the AI Daily Digest Stack (v1)
+# Core AI sources for the AI Daily Digest Stack (v2)
 
 # === LAB / COMPANY BLOGS ===
 
@@ -12,6 +12,12 @@
   type: rss
   label: "Anthropic News"
   url: "https://www.anthropic.com/news/rss"
+  importance: high
+
+- id: anthropic-learn
+  type: web
+  label: "Anthropic Learn & Academy"
+  url: "https://www.anthropic.com/learn"
   importance: high
 
 - id: deepmind-blog
@@ -33,7 +39,7 @@
   importance: medium
 
 
-# === NEWSLETTERS (ARCHIVE PAGES) ===
+# === NEWSLETTERS (ARCHIVE / INDEX PAGES) ===
 
 - id: bens-bites
   type: newsletter
@@ -47,7 +53,7 @@
   url: "https://www.therundown.ai/archive"
   importance: high
 
-- id: neuron
+- id: the-neuron
   type: newsletter
   label: "The Neuron"
   url: "https://www.theneuron.ai/newsletter"
@@ -57,6 +63,30 @@
   type: newsletter
   label: "Import AI"
   url: "https://www.importai.net/archive"
+  importance: medium
+
+- id: nate-substack
+  type: newsletter
+  label: "Nate B. Jones – Substack"
+  url: "https://natesnewsletter.substack.com"
+  importance: high
+
+- id: the-ai-break
+  type: newsletter
+  label: "The AI Break"
+  url: "https://theaibreak.substack.com"
+  importance: medium
+
+- id: gtm-vault
+  type: newsletter
+  label: "GTM Vault"
+  url: "https://www.gtmvault.co"
+  importance: medium
+
+- id: new-economies
+  type: newsletter
+  label: "NEW ECONOMIES"
+  url: "https://www.neweconomies.co"
   importance: medium
 
 
@@ -77,8 +107,8 @@
   channel_id: "TO_FILL"
   importance: medium
 
-- id: ai-news-strategy
+- id: ai-news-strategy-nate
   type: youtube
-  label: "AI News & Strategy Daily"
+  label: "AI News & Strategy Daily – Nate B. Jones"
   channel_id: "TO_FILL"
   importance: high
